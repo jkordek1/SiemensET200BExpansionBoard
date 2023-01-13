@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 36,
+    "active_layer": 49,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -66,7 +66,7 @@
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "SiemensSimaticS7ExpansionBoard.kicad_prl",
+    "filename": "SiemensET200BExpansionBoard.kicad_prl",
     "version": 3
   },
   "project": {
