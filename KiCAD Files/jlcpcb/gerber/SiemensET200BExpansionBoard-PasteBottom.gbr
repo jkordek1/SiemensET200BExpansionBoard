@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10)*%
-%TF.CreationDate,2023-01-13T11:07:09+01:00*%
-%TF.ProjectId,SiemensSimaticS7ExpansionBoard,5369656d-656e-4735-9369-6d6174696353,rev?*%
+%TF.CreationDate,2023-01-16T10:01:35+01:00*%
+%TF.ProjectId,SiemensET200BExpansionBoard,5369656d-656e-4734-9554-323030424578,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Paste,Top*%
+%TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.10)) date 2023-01-13 11:07:09*
+G04 Created by KiCad (PCBNEW (6.0.10)) date 2023-01-16 10:01:35*
 %MOMM*%
 %LPD*%
 G01*
