@@ -1,4 +1,4 @@
 # SiemensET200BExpansionBoard
 
-![](Images/Image1.PNG)
+<img src="https://https://raw.githubusercontent.com/jkordek1/SiemensET200BExpansionBoard/main/Images/Image1.jpg"  width="600"/>
  
