@@ -5,6 +5,10 @@
 [![GitHub Issues](https://img.shields.io/github/issues/jkordek1/SiemensET200BExpansionBoard)](https://github.com/jkordek1/SiemensET200BExpansionBoard/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/SiemensET200BExpansionBoard)](https://github.com/jkordek1/SiemensET200BExpansionBoard/pulls)
 
+## Why do you need this?
+
+This device enables quick and easy Siemens ET200B configuration via 16 switches.
+
 ## Description
 PCB expansion device containing 16 SPDT switches for configuring Siemens ET200B.
 ## Images
