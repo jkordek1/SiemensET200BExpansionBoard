@@ -18,3 +18,12 @@ PCB expansion device containing 16 SPDT switches for configuring Siemens ET200B.
 | 1  | 16 | EG1271A SPDT switch  | [Digikey](https://www.digikey.com/en/products/detail/e-switch/EG1271A/251336) |
 | 2  | 1 | 5.08mm 1x2 screw terminal  | [Digikey](https://www.digikey.com/en/products/detail/cui-devices/TB006-508-02BE/10064115) |
 
+## Project folder structure
+    .
+    ├── ...
+    ├── Images                  # Images of the project
+    ├── KiCAD Files             # Main folder
+    │   ├── 3D                  # 3D models of added components
+    │   ├── Images              # Graphics added to silk
+    │   └── jlcpcb              # gerber and assembly folder - addon
+    └── ...
