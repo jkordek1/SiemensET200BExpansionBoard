@@ -1,5 +1,10 @@
 # SiemensET200BExpansionBoard
 
+[![Version](https://img.shields.io/github/v/release/jkordek1/SiemensET200BExpansionBoard)](https://github.com/jkordek1/SiemensET200BExpansionBoard/releases/tag/Initial)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/jkordek1/SiemensET200BExpansionBoard)](https://github.com/jkordek1/SiemensET200BExpansionBoard/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/SiemensET200BExpansionBoard)](https://github.com/jkordek1/SiemensET200BExpansionBoard/pulls)
+
 ## Description
 PCB expansion device containing 16 SPDT switches for configuring Siemens ET200B.
 ## Images
